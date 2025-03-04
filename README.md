@@ -4,7 +4,7 @@
 The **Live Weather App** is a React-based application that provides real-time weather updates and a 5-day forecast for cities worldwide. The app utilizes the **OpenWeather API** to fetch weather data, including temperature, humidity, wind speed, and general conditions.
 
 ## **Live Demo**
-The project is live at: [Weather Dashboard](https://live-weather-n9uy.onrender.com/)
+The project is live at: [Live Weather App](https://live-weather-n9uy.onrender.com/)
 
 ## Features
 - 🌍 **Live Weather Data**: Get real-time weather updates for various cities across the globe.
